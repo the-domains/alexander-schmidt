@@ -1,0 +1,28 @@
+name: Alexander Schmidt
+favicon: null
+layout_spectrum: 0.5135435422416776
+typography_spectrum: 0.9528013030067086
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.46217549033463
+  lightness: 0.5613388309720904
+  saturation: 0.22192853200249374
+  rhythmicContrast: 0.3706217163708061
+purpose: []
